@@ -1,0 +1,9 @@
+{
+    "name": "outstack/pipeprint-engine-twig",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "silex/silex": "^2.2",
+        "twig/twig": "^2.4"
+    }
+}
