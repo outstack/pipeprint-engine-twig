@@ -4,6 +4,7 @@
     "minimum-stability": "dev",
     "require": {
         "silex/silex": "^2.2",
-        "twig/twig": "^2.4"
+        "twig/twig": "^2.4",
+        "league/flysystem": "^1.1@dev"
     }
 }
